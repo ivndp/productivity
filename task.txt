@@ -1,0 +1,6 @@
+1|Grocery|ken|2024-01-26|2024-01-31|No|Go supermarket to buy lettuce, ham, cheese and milk.
+2|Pay bill|ivan|2024-01-26|2024-02-01|Yes|Pay the utilities bills.
+3|Clean house|tommy|2024-01-26|2024-01-29|Yes|Clean the floor.
+4|Fix the floor|tommy|2024-01-26|2024-02-01|No|Bedroom's floor is broken. Please fix it as soon as possible.
+5|Study|ben|2024-01-26|2024-02-01|No|Top piority. Study for examination.
+6|Walk doggy|franc|2024-01-26|2024-02-01|No|Take Pudding for a walk.

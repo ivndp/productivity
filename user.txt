@@ -1,0 +1,6 @@
+admin;password
+ken;12345678
+ben;asdfghjk
+franc;qwertyui
+ivan;09876543
+tommy;87654321

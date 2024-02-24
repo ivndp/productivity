@@ -1,0 +1,45 @@
+Total number of users registered: 6
+-------------------------------------------------------------------------------
+User: ken
+Total number assigned to ken: 1
+Percentage of number of task assigned over total number of tasks: 17%
+Percentage of completed tasks over tasks assigned: 0%
+Percentage of incompleted tasks over tasks assigned: 100%
+Percentage of overdue tasks over tasks assigned: 100%
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+User: ben
+Total number assigned to ben: 1
+Percentage of number of task assigned over total number of tasks: 17%
+Percentage of completed tasks over tasks assigned: 0%
+Percentage of incompleted tasks over tasks assigned: 100%
+Percentage of overdue tasks over tasks assigned: 100%
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+User: franc
+Total number assigned to franc: 1
+Percentage of number of task assigned over total number of tasks: 17%
+Percentage of completed tasks over tasks assigned: 0%
+Percentage of incompleted tasks over tasks assigned: 100%
+Percentage of overdue tasks over tasks assigned: 100%
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+User: ivan
+Total number assigned to ivan: 1
+Percentage of number of task assigned over total number of tasks: 17%
+Percentage of completed tasks over tasks assigned: 100%
+Percentage of incompleted tasks over tasks assigned: 0%
+Percentage of overdue tasks over tasks assigned: 0%
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+User: tommy
+Total number assigned to tommy: 2
+Percentage of number of task assigned over total number of tasks: 33%
+Percentage of completed tasks over tasks assigned: 50%
+Percentage of incompleted tasks over tasks assigned: 50%
+Percentage of overdue tasks over tasks assigned: 50%
+-------------------------------------------------------------------------------
