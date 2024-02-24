@@ -1,4 +1,3 @@
-# T17 Capstone Project - Task Manager
 import datetime  # import datetime for compare date and date entry
 import os  # import os for checking file
 
